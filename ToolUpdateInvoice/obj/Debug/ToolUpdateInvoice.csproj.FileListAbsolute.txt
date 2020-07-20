@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\ToolUpdateInvoice\ToolUpdateInvoice\bin\Debug\ToolUpdateInvoice.exe.config
+C:\Users\admin\source\repos\ToolUpdateInvoice\ToolUpdateInvoice\bin\Debug\ToolUpdateInvoice.exe
+C:\Users\admin\source\repos\ToolUpdateInvoice\ToolUpdateInvoice\bin\Debug\ToolUpdateInvoice.pdb
+C:\Users\admin\source\repos\ToolUpdateInvoice\ToolUpdateInvoice\obj\Debug\ToolUpdateInvoice.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ToolUpdateInvoice\ToolUpdateInvoice\obj\Debug\ToolUpdateInvoice.Form1.resources
+C:\Users\admin\source\repos\ToolUpdateInvoice\ToolUpdateInvoice\obj\Debug\ToolUpdateInvoice.Properties.Resources.resources
+C:\Users\admin\source\repos\ToolUpdateInvoice\ToolUpdateInvoice\obj\Debug\ToolUpdateInvoice.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\ToolUpdateInvoice\ToolUpdateInvoice\obj\Debug\ToolUpdateInvoice.exe
+C:\Users\admin\source\repos\ToolUpdateInvoice\ToolUpdateInvoice\obj\Debug\ToolUpdateInvoice.pdb
+C:\Users\admin\source\repos\ToolUpdateInvoice\ToolUpdateInvoice\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\admin\source\repos\ToolUpdateInvoice\ToolUpdateInvoice\obj\Debug\ToolUpdateInvoice.csproj.CopyComplete
