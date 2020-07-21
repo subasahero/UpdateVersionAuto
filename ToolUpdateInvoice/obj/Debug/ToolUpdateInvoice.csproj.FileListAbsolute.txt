@@ -9,3 +9,14 @@ C:\Users\admin\source\repos\ToolUpdateInvoice\ToolUpdateInvoice\obj\Debug\ToolUp
 C:\Users\admin\source\repos\ToolUpdateInvoice\ToolUpdateInvoice\obj\Debug\ToolUpdateInvoice.pdb
 C:\Users\admin\source\repos\ToolUpdateInvoice\ToolUpdateInvoice\bin\Debug\System.IO.Compression.ZipFile.dll
 C:\Users\admin\source\repos\ToolUpdateInvoice\ToolUpdateInvoice\obj\Debug\ToolUpdateInvoice.csproj.CopyComplete
+D:\Demo\UpdateVersionAuto\UpdateVersionAuto\ToolUpdateInvoice\bin\Debug\ToolUpdateInvoice.exe.config
+D:\Demo\UpdateVersionAuto\UpdateVersionAuto\ToolUpdateInvoice\bin\Debug\ToolUpdateInvoice.exe
+D:\Demo\UpdateVersionAuto\UpdateVersionAuto\ToolUpdateInvoice\bin\Debug\ToolUpdateInvoice.pdb
+D:\Demo\UpdateVersionAuto\UpdateVersionAuto\ToolUpdateInvoice\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Demo\UpdateVersionAuto\UpdateVersionAuto\ToolUpdateInvoice\obj\Debug\ToolUpdateInvoice.csprojAssemblyReference.cache
+D:\Demo\UpdateVersionAuto\UpdateVersionAuto\ToolUpdateInvoice\obj\Debug\ToolUpdateInvoice.Form1.resources
+D:\Demo\UpdateVersionAuto\UpdateVersionAuto\ToolUpdateInvoice\obj\Debug\ToolUpdateInvoice.Properties.Resources.resources
+D:\Demo\UpdateVersionAuto\UpdateVersionAuto\ToolUpdateInvoice\obj\Debug\ToolUpdateInvoice.csproj.GenerateResource.cache
+D:\Demo\UpdateVersionAuto\UpdateVersionAuto\ToolUpdateInvoice\obj\Debug\ToolUpdateInvoice.csproj.CopyComplete
+D:\Demo\UpdateVersionAuto\UpdateVersionAuto\ToolUpdateInvoice\obj\Debug\ToolUpdateInvoice.exe
+D:\Demo\UpdateVersionAuto\UpdateVersionAuto\ToolUpdateInvoice\obj\Debug\ToolUpdateInvoice.pdb
